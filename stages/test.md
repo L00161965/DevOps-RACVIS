@@ -12,9 +12,9 @@ This practical task consists of constructing a RACIVS matrix, this project manag
 | Resolve Failed Tests                      |      C       |     AV     |         |        S          |    R    |           |
 | Write SIT Test Plan / Scripts             |      C       |     AV     |         |        S          |    R    |           |
 | Execute SIT                               |      I       |     AV     |         |        S          |    R    |           |
-| Write UAT Test Plan / Scripts             |      RA      |     VS     |    C    |        I          |         |           |
+| Write UAT Test Plan / Scripts             |              |     VS     |    C    |        I          |    RA   |           |
 | Execute UAT                               |              |     S      |    R    |        I          |    AV   |           |
-| Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |      R    |
+| Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |      I    |
   
   
 [Home](../index.md)  
